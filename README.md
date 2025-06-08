@@ -1,4 +1,4 @@
-# MATALB_BPSK_AWGN_BER_Sim
+# MATLAB_BPSK_AWGN_BER_Sim
 # BPSK Modulation over AWGN Channel Simulation (MATLAB)
 
 # Project Overview
